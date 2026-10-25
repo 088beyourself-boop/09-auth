@@ -3,6 +3,8 @@
 NoteHub is a Next.js application with cookie-based authentication for creating,
 searching, filtering, viewing, and deleting personal notes.
 
+Live application: [https://09-auth-two-delta.vercel.app](https://09-auth-two-delta.vercel.app)
+
 ## Features
 
 - Server-side rendering and client-side data fetching with TanStack Query
